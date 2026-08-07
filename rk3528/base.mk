@@ -17,6 +17,7 @@ FRIENDLYWRT_FILES+=(device/common/nft-fullcone)
 FRIENDLYWRT_FILES+=(device/common/emmc-tools)
 FRIENDLYWRT_FILES+=(device/common/distfeeds)
 FRIENDLYWRT_FILES+=(device/common/default-settings)
+FRIENDLYWRT_FILES+=(device/friendlyelec/rk3528/aic8800)
 
 # U-boot
 #
